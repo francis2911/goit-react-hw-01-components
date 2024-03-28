@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ramacandra-goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/Ramacandra-goit-react-hw-01-components/static/js/main.64f4903d.js",
+    "index.html": "/Ramacandra-goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/Ramacandra-goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.64f4903d.js.map": "/Ramacandra-goit-react-hw-01-components/static/js/main.64f4903d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.64f4903d.js"
+  ]
+}
