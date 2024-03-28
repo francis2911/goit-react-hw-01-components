@@ -2,7 +2,7 @@
   "name": "goit-react-hw-01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ramacandra.github.io/Ramacandra-goit-react-hw-01-components/",
+  "homepage": "https://francis2911.github.io/goit-react-hw-01-components/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
